@@ -1,6 +1,7 @@
-# PaceNow
+# qnlzgl.github.io
 
-Website for the PaceNow iOS app, served with GitHub Pages: https://qnlzgl.github.io/PaceNow/
+Support and privacy pages for my iOS apps, served with GitHub Pages.
 
-- Support: open an issue in this repository.
-- Privacy policy: https://qnlzgl.github.io/PaceNow/privacy/
+- PaceNow: https://qnlzgl.github.io/pacenow/ (privacy policy: https://qnlzgl.github.io/pacenow/privacy/)
+
+Questions: please open an issue in this repository.
